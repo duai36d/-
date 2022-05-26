@@ -2,9 +2,9 @@ const {
   defineConfig
 } = require('@vue/cli-service')
 module.exports = defineConfig({
-  base: "/commodity-fair/",
-  publicPath: './',
-  assetsPublicPath: './',
+  // base: "/commodity-fair/",
+  // publicPath: './',
+  // assetsPublicPath: './',
   productionSourceMap: false,
   transpileDependencies: true,
   // 关闭eslint
